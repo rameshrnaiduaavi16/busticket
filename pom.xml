@@ -6,7 +6,7 @@
     <groupId>mvn</groupId>
     <artifactId>maven</artifactId>
     <version>v2</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>Serenity project with JUnit and WebDriver</name>
 
